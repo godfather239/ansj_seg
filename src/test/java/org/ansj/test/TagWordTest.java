@@ -7,6 +7,7 @@ import org.ansj.app.keyword.Keyword;
 import org.ansj.app.summary.TagContent;
 import org.junit.Test;
 
+// 关键词飘红
 public class TagWordTest {
 	@Test
 	public void test(){
